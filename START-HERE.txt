@@ -1,0 +1,33 @@
+WHY WEBSITES EXIST
+How Design Demonstrates Purpose
+
+START HERE
+Extract this ZIP, then double-click Website-purpose-lab.html.
+It is the complete current lab, with its scripts, styles, dog photo, and logo embedded.
+No server or installation is needed to use this file.
+
+MEETING FILES
+Website-purpose-slides-final.pptx — editable 34-slide deck, with presenter notes.
+Website-purpose-slides-final.pdf — fixed-layout backup.
+Teacher-guide.md — pacing, assessment notes, and checkpoint answers.
+lab/ — editable modular website source and image assets.
+
+TEACHER UNLOCK
+Master: cheesestick
+2001: Information
+1917: Entertainment
+1984: Sales
+42: Investigate
+300: Discuss
+pi (also π or 3.14): Big Idea, Exit Ticket, and Submit together
+
+SAVING AND HAND-IN
+Drafts save in the same browser, device, and file/address. Moving or renaming the HTML
+may change where the browser stores its draft. Use Download answers for a backup.
+Online submission is not configured. Students download their work and attach it
+where the teacher directs. No student work or account credentials are included.
+
+CURRENT SCOPE
+The investigation pages are fictional placeholders, ready to replace with the
+selected real-site recreations. The gallery opens clean copies for following along;
+it does not synchronize annotations between students.
