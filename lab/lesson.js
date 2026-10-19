@@ -18,7 +18,14 @@ window.LESSON = {
     "palito de queso"
   ],
   "extensionEnabled": false,
-  "firebase": null,
+  "firebase": {
+    "apiKey": "AIzaSyBC9ecOEOh4WREBs6jrqRELyh-WuJyFFv8",
+    "authDomain": "learnball-25d68.firebaseapp.com",
+    "projectId": "learnball-25d68",
+    "storageBucket": "learnball-25d68.firebasestorage.app",
+    "messagingSenderId": "690760987841",
+    "appId": "1:690760987841:web:91db39b17464a3dd1ed040"
+  },
   "collection": "lesson_submissions",
   "slides": {},
   "pages": [
@@ -491,8 +498,8 @@ window.LESSON = {
         "Toda tu evidencia"
       ],
       "intro": [
-        "Add your name and class. Download your work and attach it where your teacher directs, or print it. Keep the file until your teacher confirms receipt.",
-        "Añade tu nombre y clase. Descarga tu trabajo y adjúntalo donde indique tu docente, o imprímelo. Conserva el archivo hasta recibir confirmación."
+        "Review your work, add your name and class, and select Submit my work. Wait for a confirmation number. You can also download or print a backup.",
+        "Revisa tu trabajo, añade tu nombre y clase y selecciona Entregar mi trabajo. Espera un número de confirmación. También puedes descargar o imprimir una copia."
       ]
     }
   ],
@@ -611,5 +618,6 @@ window.LESSON = {
         "submit"
       ]
     }
-  ]
+  ],
+  "siteVersion": "website-purpose-2026-10-18-archive-v1"
 };

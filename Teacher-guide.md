@@ -81,16 +81,29 @@ The checkpoint theme is movie titles that are numbers: 2001, 1917, 1984, 42, 300
 
 ## Files and readiness
 
+- **Obs - Website Purpose.pdf:** the teacher-supplied 33-slide presentation, included unchanged.
+
 - **Website-purpose-lab.html:** portable, self-contained lab. Double-click to open in a browser. It contains no student work.
-- **Website-purpose-slides-final.pptx:** editable teaching deck with notes and embedded source Lexend resources.
-- **Website-purpose-slides-final.pdf:** fixed-layout backup for projection or review.
 - **lab/**: editable modular website source. Changes here require rebuilding the portable HTML.
 
-Browser autosave is local to the same browser, device, and address. It is not online submission. No Firebase project is configured and no live teacher receipt is available. Students download a text file containing responses, site-specific numbered annotations, CSSA categories, and comments, then attach it wherever you direct. Print/Save PDF is also available. The text export records annotation targets and explanations rather than screenshots.
+Browser autosave is local to the same browser, device, and address. It is not online submission. The Firebase client is configured for learnball-25d68, collection lesson_submissions. Online success appears only after the server acknowledges the write; a confirmation ID identifies the document. Online submissions include responses, annotation geometry and comments. Students can also download a text file containing responses, site-specific numbered annotations, CSSA categories, and comments, then attach it wherever you direct. Print/Save PDF is also available. The text export records annotation targets and explanations rather than screenshots.
 
-Before class, choose the actual LMS assignment or other hand-in location and provide the lab to students through your normal channel. For the meeting, the local HTML and PowerPoint/PDF are sufficient. No hosting, LMS posting, or external service setup is included. The supplied PDF’s earlier May date has not been assumed to be the observation date; no grade level, standards codes, or student-specific accommodations have been invented.
+Before class, verify a submission reaches Firestore and provide the lab to students through your normal channel. Keep your normal LMS assignment or another hand-in location as a fallback. For the meeting, the local HTML and PowerPoint/PDF are sufficient. No hosting, LMS posting, or external service setup is included. The supplied PDF’s earlier May date has not been assumed to be the observation date; no grade level, standards codes, or student-specific accommodations have been invented.
 
 
 The navigation groups the lesson into Start, Purpose & Types, Investigate, and Wrap Up. Discuss is page 7 in the Investigate group and opens with 300. Pi opens Big Idea, Exit Ticket, and Submit together in the final group.
 
 Investigation sequence: steps 1–3 appear before the website; questions 1–2 follow it. A separate red box then gives steps 4–5 for independent secondary-purpose evidence, followed by question 3. Discuss is its own page 7, with a clean-site gallery for following along with table presentations.
+
+
+## Exact annotation records (October 18 update)
+
+New submissions save the original site content/version, page dimensions, pixel coordinates, target-element bounds, and a frozen PNG for each annotated site. Comments and CSSA categories remain linked by annotation number. Frozen records are stored under each submission in `annotationSnapshots/{snapshot}/chunks/{chunk}`. The root submission contains the manifest. The entire submission and its snapshot records commit atomically; the page shows a confirmation only after Firebase acknowledges them.
+
+Open **Review-annotations.html** and paste a confirmation ID to load a submission. Select a site, inspect its frozen image, and click a numbered comment to locate its pin. Original size preserves the submitted CSS viewport. Download PNG saves the frozen page. The viewer does not execute the captured site HTML.
+
+Students can use **Download annotated record** on Submit to save a JSON file with written answers, images, geometry, and comments. The teacher viewer can open this file without internet. The existing plain-text download remains available but does not include images.
+
+For drafts created before this update, students must revisit each annotated site once before submitting so its current view can be captured. Existing Firebase submissions cannot be retroactively converted into exact captures of their original view. New frozen PNGs preserve the annotated view and remain unchanged if the viewer window or the teaching site later changes.
+
+A live test saved and read back three synthetic annotated sites, loaded them in the teacher viewer, and verified their saved images remained unchanged at different viewer sizes. All test submission, snapshot, and chunk documents were removed. An offline test also confirmed failure does not create a success receipt and that the visual backup still opens in the viewer.

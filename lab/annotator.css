@@ -2,3 +2,5 @@ body.annotation-active .app-shell{max-width:1600px}body.annotation-active main{p
 
 .xray-pin.connect{border-radius:50%}.xray-endpoint{position:absolute;transform:translate(-50%,-50%);width:23px;height:23px;min-height:23px;padding:0;border:3px solid #d63f42;border-radius:50%;background:#fff;box-shadow:0 1px 4px #0004;pointer-events:auto;cursor:grab;touch-action:none;z-index:2}.xray-endpoint:hover,.xray-endpoint.selected{box-shadow:0 0 0 3px #d63f4233}.xray-endpoint:active{cursor:grabbing}.xray-endpoint:focus-visible{outline:3px solid #14283c;outline-offset:3px}
 .xray-pin,.xray-endpoint{transition:none}.xray-pin:active,.xray-endpoint:active{transform:translate(-50%,-50%)}
+
+.xray-pin,.xray-endpoint{font-family:Arial,sans-serif}
