@@ -540,8 +540,8 @@ window.LESSON = {
         "Propósito"
       ],
       "definition": [
-        "What a website helps or encourages visitors to do.",
-        "Lo que un sitio ayuda o invita a hacer."
+        "The website’s goal: why its creator made it and what they are trying to accomplish.",
+        "La meta del sitio: por qué lo creó su autor y qué intenta lograr."
       ]
     },
     "primary": {
