@@ -112,8 +112,8 @@ window.LESSON = {
         "Sitios de información"
       ],
       "learn": [
-        "<span class=\"learn-topic\">Information websites</span><span class=\"learn-detail\"><strong>Purpose:</strong> Help visitors learn about a topic or find answers to their questions.</span><span class=\"learn-detail\"><strong>Strategies:</strong> Organize information with clear headings and topic menus. Use articles, images, and search tools to help visitors find and understand it.</span><span class=\"learn-detail\"><strong>Examples:</strong> Wikipedia, weather websites, and school information pages.</span>",
-        "<span class=\"learn-topic\">Sitios web de información</span><span class=\"learn-detail\"><strong>Propósito:</strong> Ayudar a aprender sobre un tema o encontrar respuestas a preguntas.</span><span class=\"learn-detail\"><strong>Estrategias:</strong> Organizar la información con títulos claros y menús por tema. Usar artículos, imágenes y buscadores para ayudar a encontrarla y comprenderla.</span><span class=\"learn-detail\"><strong>Ejemplos:</strong> Wikipedia, sitios del tiempo y páginas de información escolar.</span>"
+        "<span class=\"learn-topic\">Information websites</span><span class=\"learn-detail\"><strong>Purpose:</strong> Help visitors learn about a topic or find answers to their questions.</span><span class=\"learn-detail\"><strong>Strategies:</strong> Organize information with clear headings and topic menus. Use articles, images, and search tools to help visitors find and understand it.</span><span class=\"learn-detail\"><strong>Examples:</strong> Wikipedia, Encyclopaedia Britannica, and NASA.</span>",
+        "<span class=\"learn-topic\">Sitios web de información</span><span class=\"learn-detail\"><strong>Propósito:</strong> Ayudar a aprender sobre un tema o encontrar respuestas a preguntas.</span><span class=\"learn-detail\"><strong>Estrategias:</strong> Organizar la información con títulos claros y menús por tema. Usar artículos, imágenes y buscadores para ayudar a encontrarla y comprenderla.</span><span class=\"learn-detail\"><strong>Ejemplos:</strong> Wikipedia, Encyclopaedia Britannica y NASA.</span>"
       ],
       "task": [
         "Use Highlight on one feature that helps a visitor find or understand information. Add a CSSA category and a comment.",
@@ -174,8 +174,8 @@ window.LESSON = {
         "Sitios de entretenimiento"
       ],
       "learn": [
-        "<span class=\"learn-topic\">Entertainment websites</span><span class=\"learn-detail\"><strong>Purpose:</strong> Give visitors something to enjoy, such as videos, music, or games.</span><span class=\"learn-detail\"><strong>Strategies:</strong> Use previews, recommendations, and interactive features to help visitors choose an experience and keep exploring.</span><span class=\"learn-detail\"><strong>Examples:</strong> YouTube, browser-game websites, and music streaming websites.</span>",
-        "<span class=\"learn-topic\">Sitios web de entretenimiento</span><span class=\"learn-detail\"><strong>Propósito:</strong> Ofrecer algo para disfrutar, como videos, música o juegos.</span><span class=\"learn-detail\"><strong>Estrategias:</strong> Usar vistas previas, recomendaciones y funciones interactivas para ayudar a elegir una experiencia y seguir explorando.</span><span class=\"learn-detail\"><strong>Ejemplos:</strong> YouTube, sitios de juegos en el navegador y sitios para escuchar música.</span>"
+        "<span class=\"learn-topic\">Entertainment websites</span><span class=\"learn-detail\"><strong>Purpose:</strong> Give visitors something to enjoy, such as videos, music, or games.</span><span class=\"learn-detail\"><strong>Strategies:</strong> Use previews, recommendations, and interactive features to help visitors choose an experience and keep exploring.</span><span class=\"learn-detail\"><strong>Examples:</strong> YouTube, Netflix, and Spotify.</span>",
+        "<span class=\"learn-topic\">Sitios web de entretenimiento</span><span class=\"learn-detail\"><strong>Propósito:</strong> Ofrecer algo para disfrutar, como videos, música o juegos.</span><span class=\"learn-detail\"><strong>Estrategias:</strong> Usar vistas previas, recomendaciones y funciones interactivas para ayudar a elegir una experiencia y seguir explorando.</span><span class=\"learn-detail\"><strong>Ejemplos:</strong> YouTube, Netflix y Spotify.</span>"
       ],
       "task": [
         "Use Connect to link a video preview to another feature that encourages visitors to keep watching. Add a CSSA category and explain the connection in your comment.",
@@ -236,8 +236,8 @@ window.LESSON = {
         "Sitios de ventas"
       ],
       "learn": [
-        "<span class=\"learn-topic\">Sales websites</span><span class=\"learn-detail\"><strong>Purpose:</strong> Encourage visitors to buy products or services.</span><span class=\"learn-detail\"><strong>Strategies:</strong> Show product photos, prices, and reviews to help visitors decide. Use clear purchase buttons and checkout steps to make buying easy.</span><span class=\"learn-detail\"><strong>Examples:</strong> Amazon, online clothing stores, and ticket-selling websites.</span>",
-        "<span class=\"learn-topic\">Sitios web de ventas</span><span class=\"learn-detail\"><strong>Propósito:</strong> Invitar a comprar productos o servicios.</span><span class=\"learn-detail\"><strong>Estrategias:</strong> Mostrar fotos de productos, precios y reseñas para ayudar a decidir. Usar botones de compra y pasos de pago claros para facilitar la compra.</span><span class=\"learn-detail\"><strong>Ejemplos:</strong> Amazon, tiendas de ropa en línea y sitios de venta de entradas.</span>"
+        "<span class=\"learn-topic\">Sales websites</span><span class=\"learn-detail\"><strong>Purpose:</strong> Encourage visitors to buy products or services.</span><span class=\"learn-detail\"><strong>Strategies:</strong> Show product photos, prices, and reviews to help visitors decide. Use clear purchase buttons and checkout steps to make buying easy.</span><span class=\"learn-detail\"><strong>Examples:</strong> Amazon, Target, and Nike.</span>",
+        "<span class=\"learn-topic\">Sitios web de ventas</span><span class=\"learn-detail\"><strong>Propósito:</strong> Invitar a comprar productos o servicios.</span><span class=\"learn-detail\"><strong>Estrategias:</strong> Mostrar fotos de productos, precios y reseñas para ayudar a decidir. Usar botones de compra y pasos de pago claros para facilitar la compra.</span><span class=\"learn-detail\"><strong>Ejemplos:</strong> Amazon, Target y Nike.</span>"
       ],
       "task": [
         "Use Arrow on a feature that encourages a purchase. Add a CSSA category and explain how it helps a customer decide.",
@@ -289,67 +289,57 @@ window.LESSON = {
       "color": "green",
       "kind": "investigate",
       "stage": [
-        "TABLE DISCUSSION · INDIVIDUAL EVIDENCE",
-        "CONVERSACIÓN EN MESA · EVIDENCIA INDIVIDUAL"
+        "INVESTIGATE WITH YOUR GROUP",
+        "INVESTIGA CON TU GRUPO"
       ],
       "title": [
         "What is this website trying to do?",
         "¿Qué intenta lograr este sitio?"
       ],
       "learn": [
-        "Work with your table to analyze the website’s primary purpose. Discuss your evidence together, but create the annotations and write the answers on your own page. Then work independently on a possible secondary purpose.",
-        "Trabaja con tu mesa para analizar el propósito principal del sitio. Conversen sobre la evidencia, pero crea las anotaciones y escribe las respuestas en tu propia página. Después trabaja de forma individual en un posible propósito secundario."
+        "What is your assigned website trying to do? Work with your group to figure out its purpose, find CSSA evidence, and propose one improvement. You have 20 minutes.",
+        "¿Qué intenta lograr el sitio asignado? Trabaja con tu grupo para identificar su propósito, encontrar evidencia CSSA y proponer una mejora. Tienes 20 minutos."
       ],
       "vocab": [
-        "primary",
-        "secondary"
+        "primary"
       ],
       "questions": [
         {
           "id": "claim",
           "label": [
-            "Which website did your table analyze, and what is its primary purpose?",
-            "¿Qué sitio analizó tu mesa y cuál es su propósito principal?"
+            "What is your assigned website’s number and name? Which type did your group agree it is: information, entertainment, or sales?",
+            "¿Cuál es el número y nombre del sitio asignado? ¿Qué tipo acordó tu grupo: información, entretenimiento o ventas?"
           ],
           "deep": false,
           "group": [
-            "STEP 3 · PRIMARY PURPOSE",
-            "PASO 3 · PROPÓSITO PRINCIPAL"
+            "WRITE YOUR ANSWERS",
+            "ESCRIBE TUS RESPUESTAS"
           ]
         },
         {
           "id": "evidence",
           "label": [
-            "Which of your four CSSA annotations best supports that primary purpose? Give its number and explain the connection.",
-            "¿Cuál de tus cuatro anotaciones CSSA apoya mejor ese propósito principal? Da su número y explica la conexión."
+            "Which piece of evidence best supports your website’s purpose, and why? Refer to its annotation number and explain why it is more convincing than one of your other pieces of evidence.",
+            "¿Qué evidencia apoya mejor el propósito del sitio y por qué? Usa su número de anotación y explica por qué es más convincente que otra de tus evidencias."
           ],
-          "deep": false,
-          "hint": [
-            "Its primary purpose is ___. Annotation #___ shows ___ (CSSA: ___). This helps visitors ___ because ___.",
-            "Su propósito principal es ___. La anotación #___ muestra ___ (CSSA: ___). Ayuda a los visitantes a ___ porque ___."
-          ]
+          "deep": false
         },
         {
-          "id": "secondary",
+          "id": "improvement",
           "label": [
-            "What is a possible secondary purpose? Refer to at least one new annotation and explain how its evidence supports that purpose.",
-            "¿Cuál es un posible propósito secundario? Usa al menos una anotación nueva y explica cómo la evidencia apoya ese propósito."
+            "What would you add or change, and which CSSA category does it belong to? Explain why this website needs an improvement in that category in particular and how your idea would help it accomplish its purpose. Refer to your “Our improvement” annotation.",
+            "¿Qué añadirías o cambiarías y a qué categoría CSSA pertenece? Explica por qué este sitio necesita una mejora en esa categoría en particular y cómo tu idea ayudaría a cumplir su propósito. Usa tu anotación “Nuestra mejora”."
           ],
+          "deep": false
+        },
+        {
+          "id": "purpose-extension",
+          "extension": true,
           "deep": false,
-          "hint": [
-            "A secondary purpose could be ___. Annotation #___ shows ___, which supports that purpose because ___.",
-            "Un propósito secundario podría ser ___. La anotación #___ muestra ___ y apoya ese propósito porque ___."
-          ],
-          "before": {
-            "title": [
-              "NOW WORK ON YOUR OWN",
-              "AHORA TRABAJA POR TU CUENTA"
-            ],
-            "body": [
-              "<ol class=\"investigation-steps\" start=\"4\"><li><strong>Individually, determine a possible secondary purpose.</strong> Scroll back up to the website. Add at least one new annotation as evidence, with a comment explaining how it supports that purpose.</li><li><strong>Answer question 3 on your own.</strong> Scroll back down here. Name the possible secondary purpose and use your new annotation number to explain your evidence.</li></ol>",
-              "<ol class=\"investigation-steps\" start=\"4\"><li><strong>Individualmente, determina un posible propósito secundario.</strong> Vuelve al sitio de arriba. Añade al menos una anotación nueva como evidencia, con un comentario que explique cómo apoya ese propósito.</li><li><strong>Responde la pregunta 3 por tu cuenta.</strong> Vuelve aquí abajo. Nombra el posible propósito secundario y usa el número de tu anotación nueva para explicar la evidencia.</li></ol>"
-            ]
-          }
+          "label": [
+            "Imagine the owner wants to add another purpose to this website. Which of the other two purposes would be easiest to add, and why would it fit this site? Describe one quick, simple addition that would support that new purpose.",
+            "Imagina que el dueño quiere añadir otro propósito al sitio. ¿Cuál de los otros dos propósitos sería más fácil de añadir y por qué encajaría en este sitio? Describe una adición rápida y sencilla que apoyaría ese nuevo propósito."
+          ]
         }
       ],
       "checkpoint": {
@@ -366,8 +356,8 @@ window.LESSON = {
         ]
       },
       "pause": [
-        "As a table, choose your strongest piece of evidence to share. Be ready to name the website, its purpose, the feature, its CSSA category, and why it supports your claim. Each table will share; everyone can open the sites on the Discuss page to follow along.",
-        "Como mesa, elijan la evidencia más fuerte para compartir. Prepárense para nombrar el sitio, su propósito, la característica, su categoría CSSA y por qué apoya su idea. Cada mesa compartirá; todos pueden abrir los sitios en la página Discute para seguir la presentación."
+        "Check that your own page has four explained CSSA evidence annotations, one “Our improvement” annotation, and all three written answers. Be ready to share your group’s strongest existing evidence and its proposed improvement.",
+        "Comprueba que tu página tenga cuatro anotaciones CSSA explicadas, una anotación “Nuestra mejora” y las tres respuestas. Prepárate para compartir la evidencia más convincente del grupo y la mejora propuesta."
       ]
     },
     {
@@ -619,5 +609,5 @@ window.LESSON = {
       ]
     }
   ],
-  "siteVersion": "website-purpose-2026-10-18-archive-v1"
+  "siteVersion": "website-purpose-2026-10-19-distinct-sites-v2"
 };
